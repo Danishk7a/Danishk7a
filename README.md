@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danishk7a
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Backend technologies like Express js and Django
+- 👀 HTML Programmer
+
 
 
 <!---
